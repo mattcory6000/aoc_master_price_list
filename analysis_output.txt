@@ -1,0 +1,48 @@
+=== Analyzing  Bowler National Grid -  November 21, 2025 .xlsx ===
+First 10 rows (raw):
+               0            1                    2                                     3     4          5          6    7          8     9                                     10           11            12           13               14                15               16
+0             NaN          NaN             Producer                          Product Name     V        UOM        Btl   Cs  Discounts  NEW!                                 Notes        Press  State/Region  Appellation  Sub-Appellation     Grape Variety              UPC
+1         AUSTRIA          NaN                  NaN                                   NaN   NaN        NaN        NaN  NaN        NaN   NaN                                   NaN          NaN           NaN          NaN              NaN               NaN              NaN
+2         KAMPTAL          NaN                  NaN                                   NaN   NaN        NaN        NaN  NaN        NaN   NaN                                   NaN          NaN           NaN          NaN              NaN               NaN              NaN
+3         ORGANIC    DB6293-NV  Sonnhof Social Club                Grüner Veltliner LITER    NV     12/ 1L          8   96        net   NaN  Dec 1: FOB increases to $107, 103/14          NaN       Kamptal          NaN              NaN  Gruner Veltliner  6 36824 79207 6
+4             NaN          NaN                  NaN                                         NaN        NaN        NaN  NaN        NaN   NaN                                   NaN          NaN           NaN          NaN              NaN               NaN              NaN
+5  ORGANIC, VEGAN  DB6102-24CA         Jurtschitsch          Gruner Veltliner "Terrassen"  2024  12/ 750ml   9.583333  115     108/14   NaN                                   NaN          NaN       Kamptal          NaN              NaN  Gruner Veltliner  6 08819 52368 2
+6  ORGANIC, VEGAN    DB0701-24         Jurtschitsch          Gruner Veltliner "Urgestein"  2024  12/ 750ml  12.333333  148      144/7   NaN                              ETA 12/1          NaN       Kamptal          NaN              NaN  Gruner Veltliner    9007951907113
+7  ORGANIC, VEGAN  DB0702-22CA         Jurtschitsch  Gruner Veltliner Loiserberg 1st Lage  2022  12/ 750ml  21.083333  253        NaN   NaN                              ETA 12/1  VM:90 JS:93       Kamptal          NaN              NaN  Gruner Veltliner     608819523033
+8  ORGANIC, VEGAN    DB0703-22         Jurtschitsch   Gruner Veltliner Kaferberg 1st Lage  2022  12/ 750ml       39.5  474        NaN   NaN                   Temp OOS until 12/1  VM:92 JS:93       Kamptal          NaN              NaN  Gruner Veltliner     636824791383
+9  ORGANIC, VEGAN  DB0000-23CA         Jurtschitsch       Riesling Heiligenstein 1st Lage  2023  12/ 750ml       26.5  318        NaN   NaN                                   NaN       VM:94        Kamptal          NaN              NaN          Riesling              NaN
+--------------------
+
+
+=== Analyzing AWS Skurnik Wines National Inventory - 11.01.25.xlsx ===
+First 10 rows (raw):
+             0      1          2                                                3     4    5    6                    7                    8                 9                  10                 11                 12                 13                    14                     15             16                  17
+0           SKU  ORDER   Producer                                 Item Description  Vntg   mL   Pk         Availability            ON PO-ETA  FOBNJ 1 cs Price  FOBNJ 15 cs Price  FOBNJ 30 cs Price  FOBNJ 56 cs Price  FOBNJ 60 cs Price  Ex-Cellar 1 cs Price  Ex-Cellar 15 cs Price            UPC             Reviews
+1     Argentina      1        NaN                                              NaN   NaN  NaN  NaN                  NaN                  NaN               NaN                NaN                NaN                NaN                NaN                   NaN                    NaN            NaN                 NaN
+2  AR-AUC-01-23      2  Altar Uco                 Malbec 'Edad Moderna', Altar Uco  2023  750   12           7 to 14 cs                  NaN             159.5                NaN                NaN                NaN                NaN                   NaN                    NaN   810063130015                 NaN
+3  AR-AUC-02-23      3  Altar Uco     Cabernet Sauvignon 'Edad Moderna', Altar Uco  2023  750   12          15 to 28 cs                  NaN             159.5                NaN                NaN                NaN                NaN                   NaN                    NaN   810063130039  DEC:94/V:92/WA:92/
+4  AR-AUC-04-23      5  Altar Uco                 Blanco 'Edad Moderna', Altar Uco  2023  750   12                 1 cs                  NaN             159.5                NaN                NaN                NaN                NaN                   NaN                    NaN   810063130046             WA:92+/
+5  AR-AUC-10-20      6  Altar Uco                   Blanco 'Edad Media', Altar Uco  2020  750    6                 3 cs                  NaN             112.5                NaN                NaN                NaN                NaN                   NaN                    NaN   810063130060  DEC:90/V:94/WA:94/
+6  AR-DOS-01-24      8  Dos Minas                             Torrontes, Dos Minas  2024  750   12                   OK                  NaN              78.5                NaN                NaN                NaN                NaN                   NaN                    NaN   779809731218                 NaN
+7  AR-DOS-02-23      9  Dos Minas                                Malbec, Dos Minas  2023  750   12         57 to 112 cs                  NaN              80.5                NaN                NaN                NaN                NaN                   NaN                    NaN  7798097231232                 NaN
+8       Austria     11        NaN                                              NaN   NaN  NaN  NaN                  NaN                  NaN               NaN                NaN                NaN                NaN                NaN                   NaN                    NaN            NaN                 NaN
+9  AT-ALZ-02-24     12   Alzinger  Gruner Veltliner Durnstein Federspiel, Alzinger  2024  750   12  15 to 28 cs & ON PO  2025-10-29 00:00:00             210.5                NaN                NaN                NaN                NaN                   NaN                    NaN  9120019604141                 NaN
+--------------------
+
+
+=== Analyzing ZRS National Pricebooks-12.xlsx ===
+First 10 rows (raw):
+                                             0                                                1                                              2    3     4      5      6   7   8
+0                                          NaN                                              NaN                                            NaN  NaN   NaN    NaN    NaN NaN NaN
+1                                       FRANCE                                              NaN                                            NaN  NaN   NaN    NaN    NaN NaN NaN
+2  FAMILLE DU VIN 🌱 - ZRS canned wine project!                                              NaN                                            NaN  NaN   NaN    NaN    NaN NaN NaN
+3                                ZRS-0911-NV48           Chateau de Beru Chablis White 48pk can                                     chardonnay   NV  48.0  200ml  192.0 NaN NaN
+4                                ZRS-0913-NV48       Jean Pierre Robinot VDF Sparkling 48pk can                                   chenin blanc   NV  48.0  200ml  180.0 NaN NaN
+5                                ZRS-0912-NV48           Jean Pierre Robinot VDF White 48pk can                                   chenin blanc   NV  48.0  200ml  180.0 NaN NaN
+6                                ZRS-1424-NV48  Fabien Jouves Skin Contact VDF White 48pk (can)  gros manseng, ugni blanc, muscat d'alexandrie   NV  48.0  200ml  156.0 NaN NaN
+7                                ZRS-0915-NV48          Benjamin Taillandier VDF White 48pk can                skin-contact muscat petit grain   NV  48.0  200ml  156.0 NaN NaN
+8                                ZRS-1515-NV48                     Les Tetes VDF Red 48pk (can)   chenin blanc, grolleau, syrah, duras, merlot   NV  48.0  200ml  156.0 NaN NaN
+9                                ZRS-1423-NV48            La Roche Buissiere VDF Red 48pk (can)                                grenache, syrah   NV  48.0  200ml  192.0 NaN NaN
+--------------------
+
+
